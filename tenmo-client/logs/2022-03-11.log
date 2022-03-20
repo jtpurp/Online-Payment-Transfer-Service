@@ -1,0 +1,17 @@
+2022-03-11T10:21:32.0419902 null
+2022-03-11T10:21:32.0509038 null
+2022-03-11T10:21:32.0519006 null
+2022-03-11T10:21:32.0519006 null
+2022-03-11T10:24:55.1688718 null
+2022-03-11T10:24:55.1798417 null
+2022-03-11T10:24:55.1798979 null
+2022-03-11T10:24:55.1798979 null
+2022-03-11T10:41:48.320011 null
+2022-03-11T10:41:48.3464699 null
+2022-03-11T10:41:48.3474981 null
+2022-03-11T10:41:48.3485001 null
+2022-03-11T10:46:25.7836908 null
+2022-03-11T10:48:53.6383641 null
+2022-03-11T10:56:26.4064974 null
+2022-03-11T11:05:08.4562053 Error while extracting response for type [class com.techelevator.tenmo.model.Account] and content type [application/json]; nested exception is org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot deserialize instance of `com.techelevator.tenmo.model.Account` out of START_ARRAY token; nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize instance of `com.techelevator.tenmo.model.Account` out of START_ARRAY token
+ at [Source: (PushbackInputStream); line: 1, column: 1]

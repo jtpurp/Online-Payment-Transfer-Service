@@ -1,0 +1,21 @@
+2022-03-10T12:49:44.3153119 401 : [{"timestamp":"2022-03-10T17:49:44.274+00:00","status":401,"error":"Unauthorized","message":"Full authentication is required to access this resource","path":"/balance"}]
+2022-03-10T12:51:41.3872692 401 : [{"timestamp":"2022-03-10T17:51:41.346+00:00","status":401,"error":"Unauthorized","message":"Full authentication is required to access this resource","path":"/balance"}]
+2022-03-10T14:29:20.7651242 401 : [{"timestamp":"2022-03-10T19:29:20.732+00:00","status":401,"error":"Unauthorized","message":"Full authentication is required to access this resource","path":"/balance"}]
+2022-03-10T14:39:23.4051616 I/O error on POST request for "http://localhost:8080/login": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect
+2022-03-10T14:40:52.4159917 401 : [{"timestamp":"2022-03-10T19:40:52.386+00:00","status":401,"error":"Unauthorized","message":"Full authentication is required to access this resource","path":"/balance"}]
+2022-03-10T14:47:41.6103413 null
+2022-03-10T15:01:39.8032393 null
+2022-03-10T15:04:21.5000093 null
+2022-03-10T15:25:37.6286458 null
+2022-03-10T20:10:12.0616818 null
+2022-03-10T20:10:12.0685616 null
+2022-03-10T20:10:12.069562 null
+2022-03-10T20:14:20.1517556 null
+2022-03-10T20:14:20.1588445 null
+2022-03-10T20:14:20.1595502 null
+2022-03-10T21:36:15.7244669 null
+2022-03-10T21:36:15.7319508 null
+2022-03-10T21:36:15.7319508 null
+2022-03-10T21:38:19.8805482 null
+2022-03-10T21:38:19.8904572 null
+2022-03-10T21:38:19.8914545 null
